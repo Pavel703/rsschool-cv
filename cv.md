@@ -6,4 +6,4 @@ uniqueArray = a.filter(function(item, pos) {
 return a.indexOf(item) == pos; 
 }
 HTML Academy, Udemy, learn.javascript.ru
-A2 level
+I have A2 level
